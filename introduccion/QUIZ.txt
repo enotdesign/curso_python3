@@ -1,0 +1,42 @@
+\\\pregunta 1
+El número: 3.14
+¿Es entero o flotante?
+---resp--- flotante
+
+\\\pregunta 2
+Este resultado: 1
+¿A qué operación corresponde?
+---resp--- 10 % 3
+
+\\\pregunta 3
+En esta instrucción: a = 10
+¿Qué es la letra a?
+---resp--- variable
+
+\\\pregunta 4
+La función print() es una instrucción que sirve para mostrar información (valores literales y variables) en la pantalla de la terminal.
+---resp--- verdadero
+
+\\\pregunta 5
+¿Qué mostraría el siguiente código?
+texto = "Este texto\ncontiene\tcaracteres\tespeciales"
+print(texto)
+---resp--- Este texto
+			contiene	caracteres	  especiales
+
+\\\pregunta 6
+Las cadenas tienen una propiedad llamada inmutabilidad. Éso significa que...
+---resp--- No se pueden modificar los caracteres que se forman
+
+\\\pregunta 7
+Dada la siguiente cadena:
+cadena = "Me encanta Python"
+¿Qué texto devolvería la siguiente instrucción?
+cadena[:10]
+---resp--- 'Me encanta'
+
+\\\pregunta 8
+En esta instrucción: a = 10
+¿Qué es la letra a?
+---resp--- variable
+
