@@ -36,7 +36,16 @@ cadena[:10]
 ---resp--- 'Me encanta'
 
 \\\pregunta 8
-En esta instrucción: a = 10
-¿Qué es la letra a?
----resp--- variable
+Dada la siguiente lista:
+lista = [1,2,3,"Hola mundo", [4,5,6] ]
+¿Qué devolvería la siguiente instrucción?
+lista[-1][1]
+---resp--- 5
 
+\\\pregunta 9
+A diferencia de las cadenas, las listas no son inmutables y se les pueden añadir nuevos ítem. De hecho su método append(ítem) sirva para...
+---resp--- anadir un nuevo item al final de la lista
+
+\\\pregunta 10
+La función input() sirve para leer valores por teclado, pero tiene un pequeño inconveniente...
+---resp--- solo puede leer cadenas de texto
