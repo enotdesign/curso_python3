@@ -25,5 +25,5 @@ print(palabra[0:2])
 print(palabra[2:-1])
 print(palabra[2:])
 
-#mostras la palabra completa
+#muestras la palabra completa
 print(palabra[:])
