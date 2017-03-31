@@ -13,12 +13,12 @@ print(palabra[0])
 print(palabra[3])
 
 #buscando caracteres en negativo
-#se optiene el ultimo caracter
+#se obtiene el ultimo caracter
 print(palabra[-1])
 
 
 #SLISING
-#nos muestra las letras delecionadas, el final se excluye
+#nos muestra las letras selecionadas, el final se excluye
 print(palabra[0:2])
 
 #desde el dos hasta el utilmo caracer
